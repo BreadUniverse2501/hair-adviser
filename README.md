@@ -10,9 +10,9 @@ Tell the bot about your hair, and it will provide a tailored list of product sug
 
 # Features
 
-> Personalized hair care recommendations
-> Interactive conversation with a GPT-2/DialoGPT powered bot
-> History tracking of your consultations
+* Personalized hair care recommendations
+* Interactive conversation with a GPT-2/DialoGPT powered bot
+* History tracking of your consultations
 
 # Requirements
 
@@ -23,8 +23,8 @@ Tell the bot about your hair, and it will provide a tailored list of product sug
 
 # Setup
 
-*** Make sure to _/pip install transformers/ torch streamlit to access the libraries needed to make this chatBOT function 
-*** Open the Model.txt file to get the fine tuned model through a Gdrive, then copy the relevant path to the pathway for the code to use. 
+* Make sure to _/pip install transformers/ torch streamlit to access the libraries needed to make this chatBOT function 
+* Open the Model.txt file to get the fine tuned model through a Gdrive, then copy the relevant path to the pathway for the code to use. 
 
 Note: The Folder has exceeded the 50mb limit, so we decided to upload it to Gdrive 
 
