@@ -24,6 +24,9 @@ Tell the bot about your hair, and it will provide a tailored list of product sug
 # Setup
 
 Make sure to _/pip install transformers/ torch streamlit to access the libraries needed to make this chatBOT function 
+Open the Model.txt file to get the fine tuned model through a Gdrive, then copy the relevant path to the pathway for the code to use. 
+
+Note: The Folder has exceeded the 50mb limit, so we decided to upload it to Gdrive 
 
 # Usage
 
