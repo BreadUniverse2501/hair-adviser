@@ -2,7 +2,7 @@ import streamlit as st
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
 # Load the fine-tuned model
-model_path = './HairRecorderTune'  # Update this path to your model's location
+model_path = '.BreadUniverse/dialoGPT-hair-recommender'  # Update this path to your model's location
 model = GPT2LMHeadModel.from_pretrained(model_path)
 tokenizer = GPT2Tokenizer.from_pretrained(model_path)
 
